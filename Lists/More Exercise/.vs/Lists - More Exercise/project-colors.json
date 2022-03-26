@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9cc212d4-7e36-48fa-af00-aa5349f6fab9": {
+      "ProjectGuid": "9cc212d4-7e36-48fa-af00-aa5349f6fab9",
+      "DisplayName": "P01.Messaging",
+      "ColorIndex": 0
+    },
+    "810b130f-e649-4759-98c9-19aec25b3781": {
+      "ProjectGuid": "810b130f-e649-4759-98c9-19aec25b3781",
+      "DisplayName": "P02.CarRace",
+      "ColorIndex": 1
+    },
+    "ad0645e9-e606-4b18-a0d5-edbefa2a311d": {
+      "ProjectGuid": "ad0645e9-e606-4b18-a0d5-edbefa2a311d",
+      "DisplayName": "P03.TakeSkipRope",
+      "ColorIndex": 2
+    },
+    "20e78426-495c-4edb-b6fe-1dd378b9861b": {
+      "ProjectGuid": "20e78426-495c-4edb-b6fe-1dd378b9861b",
+      "DisplayName": "P04.MixedUpLists",
+      "ColorIndex": 3
+    },
+    "d37d2087-cd50-4ca9-9857-d3d095a6bd5e": {
+      "ProjectGuid": "d37d2087-cd50-4ca9-9857-d3d095a6bd5e",
+      "DisplayName": "P05.DrumSet",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

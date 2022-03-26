@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5aae1e1d-9204-4c6c-ac34-6d3adea6a26b": {
+      "ProjectGuid": "5aae1e1d-9204-4c6c-ac34-6d3adea6a26b",
+      "DisplayName": "P01. Train",
+      "ColorIndex": 0
+    },
+    "d935272c-52b5-4ecb-9d90-848fe650ae10": {
+      "ProjectGuid": "d935272c-52b5-4ecb-9d90-848fe650ae10",
+      "DisplayName": "P02. Common Elements",
+      "ColorIndex": 1
+    },
+    "17a1e5d9-ffa6-4f00-ab71-3bf1f5dafafc": {
+      "ProjectGuid": "17a1e5d9-ffa6-4f00-ab71-3bf1f5dafafc",
+      "DisplayName": "P03. Zig-Zag Arrays",
+      "ColorIndex": 2
+    },
+    "7c1b02e4-f0f3-4cda-ae39-90d2aaf398d9": {
+      "ProjectGuid": "7c1b02e4-f0f3-4cda-ae39-90d2aaf398d9",
+      "DisplayName": "P04. Array Rotation",
+      "ColorIndex": 3
+    },
+    "4d1b2a66-a596-4043-84f0-59c9e4c1e1d7": {
+      "ProjectGuid": "4d1b2a66-a596-4043-84f0-59c9e4c1e1d7",
+      "DisplayName": "P05. Top Integers",
+      "ColorIndex": 4
+    },
+    "885c18fe-563a-428f-bd1f-2e5ebb7cb13a": {
+      "ProjectGuid": "885c18fe-563a-428f-bd1f-2e5ebb7cb13a",
+      "DisplayName": "P06. Equal Sum",
+      "ColorIndex": 5
+    },
+    "8818d14d-0f47-4c93-a6ef-3b9c76d3c518": {
+      "ProjectGuid": "8818d14d-0f47-4c93-a6ef-3b9c76d3c518",
+      "DisplayName": "P07. Max Sequence of Equal Elements",
+      "ColorIndex": 6
+    },
+    "fc9c04f1-2733-4f9e-9adc-997fe014a599": {
+      "ProjectGuid": "fc9c04f1-2733-4f9e-9adc-997fe014a599",
+      "DisplayName": "P08. Magic Sum",
+      "ColorIndex": 7
+    },
+    "8191bfbb-ca7d-4606-b49e-ebb20a6c656c": {
+      "ProjectGuid": "8191bfbb-ca7d-4606-b49e-ebb20a6c656c",
+      "DisplayName": "P09. Kamino Factory",
+      "ColorIndex": 8
+    },
+    "3e43d66e-e74a-4d01-8bff-ad523da54c55": {
+      "ProjectGuid": "3e43d66e-e74a-4d01-8bff-ad523da54c55",
+      "DisplayName": "P10. LadyBugs",
+      "ColorIndex": 9
+    },
+    "d188ab02-e0ef-4fbb-9096-c23baac19cd7": {
+      "ProjectGuid": "d188ab02-e0ef-4fbb-9096-c23baac19cd7",
+      "DisplayName": "test",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c4a5f49-da00-4524-83e0-9efacf6118be": {
+      "ProjectGuid": "1c4a5f49-da00-4524-83e0-9efacf6118be",
+      "DisplayName": "P01. Sum Adjacent Equal Numbers",
+      "ColorIndex": 0
+    },
+    "58cf6813-7514-4837-89fc-54aa9739acd2": {
+      "ProjectGuid": "58cf6813-7514-4837-89fc-54aa9739acd2",
+      "DisplayName": "P02. Gauss' Trick",
+      "ColorIndex": 1
+    },
+    "1bdc1d16-b76f-4d4a-b79f-ea08ebd51869": {
+      "ProjectGuid": "1bdc1d16-b76f-4d4a-b79f-ea08ebd51869",
+      "DisplayName": "P03. Merging Lists",
+      "ColorIndex": 2
+    },
+    "448e19fb-2aea-4e70-8cd7-0edf8f8c94c1": {
+      "ProjectGuid": "448e19fb-2aea-4e70-8cd7-0edf8f8c94c1",
+      "DisplayName": "P04. List of Products",
+      "ColorIndex": 3
+    },
+    "187bbdac-3bc4-46b3-8be4-1e29c6653b58": {
+      "ProjectGuid": "187bbdac-3bc4-46b3-8be4-1e29c6653b58",
+      "DisplayName": "P05. Remove Negatives and Reverse",
+      "ColorIndex": 4
+    },
+    "fe93a1ad-fb9b-4f70-aaea-c039e1263bcb": {
+      "ProjectGuid": "fe93a1ad-fb9b-4f70-aaea-c039e1263bcb",
+      "DisplayName": "P06. List Manipulation Basics",
+      "ColorIndex": 5
+    },
+    "1fed98d7-b29e-459c-a0ce-75c22f8b98a5": {
+      "ProjectGuid": "1fed98d7-b29e-459c-a0ce-75c22f8b98a5",
+      "DisplayName": "P07. List Manipulation Advanced",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

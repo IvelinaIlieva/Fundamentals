@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a63993b8-f1e1-45f0-800e-10c5f2881d73": {
+      "ProjectGuid": "a63993b8-f1e1-45f0-800e-10c5f2881d73",
+      "DisplayName": "P01. Train",
+      "ColorIndex": 0
+    },
+    "8d5cc322-72f3-4a70-b532-713b0115cc10": {
+      "ProjectGuid": "8d5cc322-72f3-4a70-b532-713b0115cc10",
+      "DisplayName": "P02. Change List",
+      "ColorIndex": 1
+    },
+    "69b83cdb-8fa8-4015-94ee-efd950b083c1": {
+      "ProjectGuid": "69b83cdb-8fa8-4015-94ee-efd950b083c1",
+      "DisplayName": "P03. House Party",
+      "ColorIndex": 2
+    },
+    "430762f1-4438-4c06-8e53-b17da3fe695d": {
+      "ProjectGuid": "430762f1-4438-4c06-8e53-b17da3fe695d",
+      "DisplayName": "P04. List Operations",
+      "ColorIndex": 3
+    },
+    "0ac5d292-4b72-48b0-baca-e1a6c123bc46": {
+      "ProjectGuid": "0ac5d292-4b72-48b0-baca-e1a6c123bc46",
+      "DisplayName": "P05. Bomb Numbers",
+      "ColorIndex": 4
+    },
+    "613f1e55-6a4f-4a7d-ae1a-e0252e6b5c97": {
+      "ProjectGuid": "613f1e55-6a4f-4a7d-ae1a-e0252e6b5c97",
+      "DisplayName": "P06. Cards Game",
+      "ColorIndex": 5
+    },
+    "b73a2c04-e105-468b-bc09-be6d5bac002a": {
+      "ProjectGuid": "b73a2c04-e105-468b-bc09-be6d5bac002a",
+      "DisplayName": "P07. Append Arrays",
+      "ColorIndex": 6
+    },
+    "2ba6ca3c-943e-4863-9d3e-f43dcfa5a93d": {
+      "ProjectGuid": "2ba6ca3c-943e-4863-9d3e-f43dcfa5a93d",
+      "DisplayName": "P08. Anonymous Threat",
+      "ColorIndex": 7
+    },
+    "b04b0552-0ea8-4289-a88c-e3f7d949120b": {
+      "ProjectGuid": "b04b0552-0ea8-4289-a88c-e3f7d949120b",
+      "DisplayName": "P09. Pokemon Don't Go",
+      "ColorIndex": 8
+    },
+    "4ec4e195-82d4-47bf-a83f-5494131cba0a": {
+      "ProjectGuid": "4ec4e195-82d4-47bf-a83f-5494131cba0a",
+      "DisplayName": "P10. SoftUni Course Planning",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

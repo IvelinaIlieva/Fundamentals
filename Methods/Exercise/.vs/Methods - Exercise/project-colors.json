@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2aaf9821-efc2-442c-9ac2-b3198d976887": {
+      "ProjectGuid": "2aaf9821-efc2-442c-9ac2-b3198d976887",
+      "DisplayName": "P01. Smallest of Three Numbers",
+      "ColorIndex": 0
+    },
+    "88501345-51ba-4206-a14f-10dc3881c6db": {
+      "ProjectGuid": "88501345-51ba-4206-a14f-10dc3881c6db",
+      "DisplayName": "P02. Vowels Count",
+      "ColorIndex": 1
+    },
+    "d6e729ae-841c-401f-8463-3d36f98991dd": {
+      "ProjectGuid": "d6e729ae-841c-401f-8463-3d36f98991dd",
+      "DisplayName": "P03. Characters in Range",
+      "ColorIndex": 2
+    },
+    "22bbfacf-ca96-4241-abcb-d95ffbca04fd": {
+      "ProjectGuid": "22bbfacf-ca96-4241-abcb-d95ffbca04fd",
+      "DisplayName": "P04. Password Validator",
+      "ColorIndex": 3
+    },
+    "1f6788e8-30e7-42de-bc24-3cdecf8e4c9c": {
+      "ProjectGuid": "1f6788e8-30e7-42de-bc24-3cdecf8e4c9c",
+      "DisplayName": "P05. Add and Subtract",
+      "ColorIndex": 4
+    },
+    "ebded8db-18a9-4fc6-8500-77d0495bd401": {
+      "ProjectGuid": "ebded8db-18a9-4fc6-8500-77d0495bd401",
+      "DisplayName": "P06. Middle Characters",
+      "ColorIndex": 5
+    },
+    "e2963dff-91bb-4fcf-acb8-077ae1e35758": {
+      "ProjectGuid": "e2963dff-91bb-4fcf-acb8-077ae1e35758",
+      "DisplayName": "P07. NxN Matrix",
+      "ColorIndex": 6
+    },
+    "a6647779-9352-4a88-8d91-c78143b07f3b": {
+      "ProjectGuid": "a6647779-9352-4a88-8d91-c78143b07f3b",
+      "DisplayName": "P08. Factorial Division",
+      "ColorIndex": 7
+    },
+    "1c02049d-c12d-4aee-9fa9-a18004742c2d": {
+      "ProjectGuid": "1c02049d-c12d-4aee-9fa9-a18004742c2d",
+      "DisplayName": "P09. Palindrome Integers",
+      "ColorIndex": 8
+    },
+    "cf58a2a5-5d04-438c-98fa-ded40b4b3c64": {
+      "ProjectGuid": "cf58a2a5-5d04-438c-98fa-ded40b4b3c64",
+      "DisplayName": "P10. Top Number",
+      "ColorIndex": 9
+    },
+    "877c07c7-af36-450e-8b11-e34d518b1a85": {
+      "ProjectGuid": "877c07c7-af36-450e-8b11-e34d518b1a85",
+      "DisplayName": "P11. Array Manipulator",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

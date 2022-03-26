@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3b6e26a-4df5-4c03-87fa-f445a4d194ff": {
+      "ProjectGuid": "c3b6e26a-4df5-4c03-87fa-f445a4d194ff",
+      "DisplayName": "P01. Day of Week",
+      "ColorIndex": 0
+    },
+    "f573905b-5470-455d-8774-64ae96a8084b": {
+      "ProjectGuid": "f573905b-5470-455d-8774-64ae96a8084b",
+      "DisplayName": "P02. Print Numbers in Reverse Order",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2b161d8e-c14b-48a5-a7a4-65e05376173e": {
+      "ProjectGuid": "2b161d8e-c14b-48a5-a7a4-65e05376173e",
+      "DisplayName": "P03. Rounding Numbers",
+      "ColorIndex": 2
+    },
+    "ab50283b-d3c0-44ae-bf26-df8be629fead": {
+      "ProjectGuid": "ab50283b-d3c0-44ae-bf26-df8be629fead",
+      "DisplayName": "P04. Reverse Array of Strings",
+      "ColorIndex": 3
+    },
+    "d0287c06-4619-4f37-8bd9-ca1f77e0ff23": {
+      "ProjectGuid": "d0287c06-4619-4f37-8bd9-ca1f77e0ff23",
+      "DisplayName": "P05. Sum Even Numbers",
+      "ColorIndex": 4
+    },
+    "00b10a5b-6c91-4972-81a2-e218932069af": {
+      "ProjectGuid": "00b10a5b-6c91-4972-81a2-e218932069af",
+      "DisplayName": "P06. Even and Odd Subtraction",
+      "ColorIndex": 5
+    },
+    "e175da75-bb94-4279-b470-132aed30fc7c": {
+      "ProjectGuid": "e175da75-bb94-4279-b470-132aed30fc7c",
+      "DisplayName": "P07. Equal Arrays",
+      "ColorIndex": 6
+    },
+    "8938850c-abf5-4274-9033-001d7a5c1e29": {
+      "ProjectGuid": "8938850c-abf5-4274-9033-001d7a5c1e29",
+      "DisplayName": "P08. Condense Array to Number",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

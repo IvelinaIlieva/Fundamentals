@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26629e11-a982-4587-ad46-595afd9ba884": {
+      "ProjectGuid": "26629e11-a982-4587-ad46-595afd9ba884",
+      "DisplayName": "P01. Data Type Finder",
+      "ColorIndex": 0
+    },
+    "f0e4b6d7-87a9-4575-abcb-8b325979a2b0": {
+      "ProjectGuid": "f0e4b6d7-87a9-4575-abcb-8b325979a2b0",
+      "DisplayName": "P02. From Left to The Right",
+      "ColorIndex": 1
+    },
+    "e13b4b9c-4218-4180-9445-fd2f6c5e999f": {
+      "ProjectGuid": "e13b4b9c-4218-4180-9445-fd2f6c5e999f",
+      "DisplayName": "P03. Floating Equality",
+      "ColorIndex": 2
+    },
+    "feae6a5b-3b1b-4893-bc61-ed08e1add448": {
+      "ProjectGuid": "feae6a5b-3b1b-4893-bc61-ed08e1add448",
+      "DisplayName": "P04. Refactoring Prime Checker",
+      "ColorIndex": 3
+    },
+    "f91550e9-eefd-49d0-8397-b9426566e443": {
+      "ProjectGuid": "f91550e9-eefd-49d0-8397-b9426566e443",
+      "DisplayName": "P05. Decrypting Message",
+      "ColorIndex": 4
+    },
+    "969255f3-a791-4a52-a844-68dfb5357332": {
+      "ProjectGuid": "969255f3-a791-4a52-a844-68dfb5357332",
+      "DisplayName": "P06. Balanced Brackets",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

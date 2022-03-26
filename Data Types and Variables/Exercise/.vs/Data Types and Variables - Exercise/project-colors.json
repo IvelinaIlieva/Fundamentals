@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96ab804d-b30f-4558-984a-bd1b063a414a": {
+      "ProjectGuid": "96ab804d-b30f-4558-984a-bd1b063a414a",
+      "DisplayName": "P01. Integer Operations",
+      "ColorIndex": 0
+    },
+    "38c31acf-e46d-44ea-b084-638dfe9ec6de": {
+      "ProjectGuid": "38c31acf-e46d-44ea-b084-638dfe9ec6de",
+      "DisplayName": "P02. Sum Digits",
+      "ColorIndex": 1
+    },
+    "79db7946-20aa-4f33-b1d4-24cc4fe45a50": {
+      "ProjectGuid": "79db7946-20aa-4f33-b1d4-24cc4fe45a50",
+      "DisplayName": "P03. Elevator",
+      "ColorIndex": 2
+    },
+    "61c962b6-739f-497c-aa4c-b58906e5e2c9": {
+      "ProjectGuid": "61c962b6-739f-497c-aa4c-b58906e5e2c9",
+      "DisplayName": "P04. Sum of Chars",
+      "ColorIndex": 3
+    },
+    "14254643-51e7-4b59-8b4d-00fab5aed5ba": {
+      "ProjectGuid": "14254643-51e7-4b59-8b4d-00fab5aed5ba",
+      "DisplayName": "P05. Print Part Of ASCII Table",
+      "ColorIndex": 4
+    },
+    "a5667475-867e-492b-8760-ebed6dd68970": {
+      "ProjectGuid": "a5667475-867e-492b-8760-ebed6dd68970",
+      "DisplayName": "P06. Triples of Latin Letters",
+      "ColorIndex": 5
+    },
+    "93c8f6f0-afee-4e35-ac8c-fa8a1c9fecc6": {
+      "ProjectGuid": "93c8f6f0-afee-4e35-ac8c-fa8a1c9fecc6",
+      "DisplayName": "P07. Water Overflow",
+      "ColorIndex": 6
+    },
+    "082d2ae4-8d28-4ce1-8229-ef3e0f9fe998": {
+      "ProjectGuid": "082d2ae4-8d28-4ce1-8229-ef3e0f9fe998",
+      "DisplayName": "P08. Beer Kegs",
+      "ColorIndex": 7
+    },
+    "e7474d1f-5d76-45ce-b155-78895f66415c": {
+      "ProjectGuid": "e7474d1f-5d76-45ce-b155-78895f66415c",
+      "DisplayName": "P09. Spice Must Flow",
+      "ColorIndex": 8
+    },
+    "93cbc04f-4323-45cb-8ed6-2cd28b32b8d9": {
+      "ProjectGuid": "93cbc04f-4323-45cb-8ed6-2cd28b32b8d9",
+      "DisplayName": "P10. Poke Mon",
+      "ColorIndex": 9
+    },
+    "0fb86aef-d1a2-42e5-b5d4-b8d89ed60643": {
+      "ProjectGuid": "0fb86aef-d1a2-42e5-b5d4-b8d89ed60643",
+      "DisplayName": "P11. Snowballs",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

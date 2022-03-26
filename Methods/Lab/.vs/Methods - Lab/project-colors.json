@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f9edbbf-85c8-41d2-9818-820a1a7b6df8": {
+      "ProjectGuid": "8f9edbbf-85c8-41d2-9818-820a1a7b6df8",
+      "DisplayName": "P01. Sign of Integer Numbers",
+      "ColorIndex": 0
+    },
+    "222dbbf9-2778-4009-9d24-a532621fe95e": {
+      "ProjectGuid": "222dbbf9-2778-4009-9d24-a532621fe95e",
+      "DisplayName": "P02. Grades",
+      "ColorIndex": 1
+    },
+    "b0de1e1b-644c-44fa-9fd1-d3dfc0ecbb59": {
+      "ProjectGuid": "b0de1e1b-644c-44fa-9fd1-d3dfc0ecbb59",
+      "DisplayName": "P03. Calculations",
+      "ColorIndex": 2
+    },
+    "028a5af3-5f4e-44e1-9ce4-97286cdb7014": {
+      "ProjectGuid": "028a5af3-5f4e-44e1-9ce4-97286cdb7014",
+      "DisplayName": "P04. Printing Triangle",
+      "ColorIndex": 3
+    },
+    "66b47719-8d52-4dfd-98ed-1a81adf7c17e": {
+      "ProjectGuid": "66b47719-8d52-4dfd-98ed-1a81adf7c17e",
+      "DisplayName": "P05. Orders",
+      "ColorIndex": 4
+    },
+    "3e1745eb-4da9-4024-a587-b06bd4aa90dd": {
+      "ProjectGuid": "3e1745eb-4da9-4024-a587-b06bd4aa90dd",
+      "DisplayName": "P06. Calculate Rectangle Area",
+      "ColorIndex": 5
+    },
+    "00204a0e-147f-487b-8e79-257111ad749f": {
+      "ProjectGuid": "00204a0e-147f-487b-8e79-257111ad749f",
+      "DisplayName": "P07. Repeat String",
+      "ColorIndex": 6
+    },
+    "272f01d3-64d1-463a-a6ed-d7633c705862": {
+      "ProjectGuid": "272f01d3-64d1-463a-a6ed-d7633c705862",
+      "DisplayName": "P08. Math Power",
+      "ColorIndex": 7
+    },
+    "85b49708-a205-450e-bb21-b25e08be56f3": {
+      "ProjectGuid": "85b49708-a205-450e-bb21-b25e08be56f3",
+      "DisplayName": "P09. Greater of Two Values",
+      "ColorIndex": 8
+    },
+    "423aa13e-0606-4c7e-814e-1712f0d9fa06": {
+      "ProjectGuid": "423aa13e-0606-4c7e-814e-1712f0d9fa06",
+      "DisplayName": "P10. Multiply Evens by Odds",
+      "ColorIndex": 9
+    },
+    "1b493edf-17eb-4caa-aa00-a46d60a31a1b": {
+      "ProjectGuid": "1b493edf-17eb-4caa-aa00-a46d60a31a1b",
+      "DisplayName": "P11. Math operations",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

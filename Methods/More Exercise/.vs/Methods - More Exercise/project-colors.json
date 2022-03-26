@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "341f99e3-bde4-4b9c-b4f3-4e2f37e8fd7b": {
+      "ProjectGuid": "341f99e3-bde4-4b9c-b4f3-4e2f37e8fd7b",
+      "DisplayName": "P01. Data Types",
+      "ColorIndex": 0
+    },
+    "0653ae3f-b23b-4bf5-988b-c7fde2c81648": {
+      "ProjectGuid": "0653ae3f-b23b-4bf5-988b-c7fde2c81648",
+      "DisplayName": "P02. Center Point",
+      "ColorIndex": 1
+    },
+    "61695bf7-3c42-4baf-999f-6a6044b79506": {
+      "ProjectGuid": "61695bf7-3c42-4baf-999f-6a6044b79506",
+      "DisplayName": "P03. Longer Line",
+      "ColorIndex": 2
+    },
+    "aa3f46c6-b985-400e-a2ab-744e11f8ac7e": {
+      "ProjectGuid": "aa3f46c6-b985-400e-a2ab-744e11f8ac7e",
+      "DisplayName": "P04. Tribonacci Sequence",
+      "ColorIndex": 3
+    },
+    "bf421e27-0fa6-48cb-bd12-6a4e90313b1a": {
+      "ProjectGuid": "bf421e27-0fa6-48cb-bd12-6a4e90313b1a",
+      "DisplayName": "P05. Multiplication Sign",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
