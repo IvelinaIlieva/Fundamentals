@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18397fad-a597-40d5-bd4d-32254542636e": {
+      "ProjectGuid": "18397fad-a597-40d5-bd4d-32254542636e",
+      "DisplayName": "P01.SoftUniReception",
+      "ColorIndex": 0
+    },
+    "851a86d7-a794-4620-b90c-fd2fcc499b20": {
+      "ProjectGuid": "851a86d7-a794-4620-b90c-fd2fcc499b20",
+      "DisplayName": "P02.ArrayModifier",
+      "ColorIndex": 1
+    },
+    "9f14c2c8-5cf5-4d9e-abb7-564fd1859cec": {
+      "ProjectGuid": "9f14c2c8-5cf5-4d9e-abb7-564fd1859cec",
+      "DisplayName": "P03.Numbers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
